@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(173, 173, 173);
+    font-family:sans-serif;
+}
+h1{
+    
+    letter-spacing:0.4ex;
+}
+h2{
+    background-color: rgb(112, 115, 117);
+    color:white
+}
+figcaption{
+    color: blanchedalmond;
+}
+img{
+    float:left
+}
+i{color:red}
