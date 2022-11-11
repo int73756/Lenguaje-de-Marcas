@@ -1,0 +1,12 @@
+del{
+    color:blue;
+    font-size:xx-large;
+    vertical-align:text-top;
+}
+ins{
+    color: green;
+    vertical-align:super;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif ;
+}
