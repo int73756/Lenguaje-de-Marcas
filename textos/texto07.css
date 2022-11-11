@@ -1,0 +1,16 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(228, 228, 220);
+}
+h1{
+    text-transform: uppercase;
+    color:rgb(65, 69, 71)
+}
+h2{
+    background-color: rgb(131, 130, 123);
+    color:rgb(211, 2, 2);
+}
+div{
+    background-color: rgb(189, 189, 184);
+
+}
