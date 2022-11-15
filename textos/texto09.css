@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Fascinate Inline");
+html{
+    background-color:rgb(228, 190, 158) ;
+}
+h1{
+    font-family: "Fascinate Inline";
+    letter-spacing:0.3em;
+    text-align:center
+}
+div.subtitulo{
+    font-size:0.7em;
+    font-family:sans-serif;
+    font-style:italic;
+    text-align:center
+}
