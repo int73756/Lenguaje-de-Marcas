@@ -5,7 +5,7 @@ h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     text-align: right;
 }
-#rojo{
+span.rojo{
     color: red;
     font-family:"Comic Sans MS";
 
@@ -14,6 +14,6 @@ h2{
     font-family: monospace;
     text-transform: uppercase;
 }
-#mayus{
+span.mayus{
     font-size: 150%;
 }
