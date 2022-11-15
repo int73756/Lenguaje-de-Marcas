@@ -14,3 +14,11 @@ div{
     background-color: rgb(189, 189, 184);
 
 }
+i{
+    color: blue;
+    font-weight: bold;
+    text-decoration:underline;
+}
+b{
+    color:rgb(15, 182, 15)
+}
