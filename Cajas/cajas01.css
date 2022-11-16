@@ -1,9 +1,14 @@
 html{
-    background-color:rgb(165, 165, 165)
+    background-color:rgb(204, 204, 204)
 }
 h2{
     color:rgb(114, 113, 113);
     text-align:center;
     text-transform: uppercase;
     font-family: sans-serif;
+}
+div.unoycinco{
+    border-style: dotted;
+    border-color: rgb(85, 173, 144);
+    background-color: rgb(157, 255, 255);
 }
