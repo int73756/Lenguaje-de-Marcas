@@ -8,7 +8,53 @@ h2{
     font-family: sans-serif;
 }
 div.unoycinco{
+    color: rgb(59, 122, 101);
     border-style: dotted;
     border-color: rgb(85, 173, 144);
     background-color: rgb(157, 255, 255);
+    margin-left: 15%;
+    margin-right:15%;
+    padding-left:4%;
+    padding-bottom:;
+    padding-right:4%;
+    margin-bottom:1em
+}
+p{
+    padding-bottom:3%;
+}
+p.cita{
+    text-align:center;
+    padding-bottom:0%
+}
+div.dos{
+    border-width:0.5em;
+    border-style: outset;
+    border-color:rgb(151, 172, 243);
+    margin-left:50%;
+    background-color:rgb(199, 217, 245);
+    color:rgb(58, 79, 155);
+    padding-left:4%;
+    padding-right:4%;
+    margin-bottom:1em;
+}
+div.tres{
+    border-style:solid;
+    border-color:rgb(204, 1, 204);
+    background-color: rgb(238, 168, 238);
+    color:rgb(145, 3, 145);
+    padding-left:4%;
+    padding-right:4%;
+    margin-right:50%;
+    margin-bottom:1em;
+}
+div.cuatro{
+    border-style:dotted;
+    border-width: 0.4em;
+    background-color:rgb(114, 48, 175);
+    border-color:fuchsia;
+    margin-left:50%;
+    color:white;
+    padding-left:4%;
+    padding-right:4%;
+    margin-bottom:1em;
 }
