@@ -1,0 +1,6 @@
+img{
+    border-style:solid;
+    border-image:black;
+    border-width: 0.1em;
+    padding:0.3em;
+}
