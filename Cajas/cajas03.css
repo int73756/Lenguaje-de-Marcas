@@ -1,0 +1,41 @@
+body{
+    border-style:solid;
+    border-top-width: 2.1em;
+    border-color:#fff176;
+    margin:0;
+}
+h1{
+    margin-top:-1.3em;
+    color:rgb(0, 0, 0);
+    text-align:center;
+    font-family:sans-serif;
+    font-size:x-large;
+}
+div.efemeride{
+    border-style:solid;
+    border-top-width: 2.1em;
+    border-color:#fbc02d;
+    margin:0.5em;
+    background-color:#ffeb3b;
+    font-family:sans-serif;
+}
+div.texto{
+    border-style:solid;
+    border-top-width:1.8em;
+    border-color:rgb(253, 122, 0);
+    margin:0.5em;
+}
+p{
+    margin-bottom:-0.5%
+}
+h3{
+    margin-top:-1.3em;
+    color:white;
+    margin-bottom:-0.6em;
+}
+h2{
+    margin-top:-1.3em;
+    color:brown;
+    font-family:sans-serif;
+
+}
