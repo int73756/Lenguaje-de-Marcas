@@ -27,6 +27,8 @@ div.texto{
     border-top-width:1.8em;
     border-color:rgb(253, 122, 0);
     margin:0.5em;
+    margin-top:-0.4em;
+    margin-bottom:1em;
     background-color:#f8d151;
     width: 15em;
     float:left;
