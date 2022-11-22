@@ -21,6 +21,7 @@ div.efemeride{
     background-color:#ffeb3b;
     font-family:sans-serif;
     float:left;
+    width:33em;
 }
 div.texto{
     border-style:solid;
