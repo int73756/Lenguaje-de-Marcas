@@ -19,17 +19,25 @@ li.uno{
 div{
     float:left;
     width:100%;
-    margin-bottom:50px
+    margin-bottom:50px;
 }
 li.dos{
     float:left;
     margin-left:30px;
-    margin-right:5px;
     text-transform: uppercase;
     list-style-type: none;
     border-style:dashed;
     border-color:rgb(226, 43, 226);
     color:rgb(226, 43, 226);
     background-color: rgb(144, 240, 208);
-    text-transform:;
+    padding-top:6px;
+    padding-bottom:5px;
+    padding-left:20px;
+    padding-right: 20px;
+}
+li.tres{
+    float:left;
+    margin:0;
+    list-style-type: none;
+    padding-left:50px;
 }
