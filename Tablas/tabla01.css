@@ -1,0 +1,30 @@
+p{
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left:130px;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    height:30px;
+    text-align:center;
+    background-color:rgb(248, 140, 69);
+    border:black solid thin;
+}
+
+th{
+    background-color:rgb(84, 148, 243);
+    color:white;
+    width:120px;
+    height:30px;
+    border:white solid thin
+}
+
+.provincia{
+    color:yellow;
+    background-color:rgb(84, 148, 243);
+    font-family: sans-serif;
+    border:white solid thin;
+}
+

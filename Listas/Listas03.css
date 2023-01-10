@@ -6,7 +6,7 @@ ul{
     height:50px;
     margin-top:30px;
 }
-.L2{
+.L{
     margin-top:-85px;
 }
 li.uno{
@@ -32,12 +32,119 @@ li.dos{
     background-color: rgb(144, 240, 208);
     padding-top:6px;
     padding-bottom:5px;
-    padding-left:20px;
-    padding-right: 20px;
+    width:200px;
+    text-align: center;
+    margin-bottom:10px;
 }
-li.tres{
+.tres li{
     float:left;
     margin:0;
     list-style-type: none;
-    padding-left:50px;
+    width:150px;
+    text-align: center;
+    padding-top:6px;
+    padding-bottom: 6px;
+}
+li.tres1{
+    background-color:rgb(255, 255, 226) ;
+    color:rgb(55, 95, 226)
+}
+li.tres2{
+    background-color:rgb(55, 95, 226);
+    color:rgb(255, 255, 226);
+}
+.cuatros{
+    border-style: solid;
+    height:fit-content;
+    width:fit-content;
+    font-size: small;
+}
+.cuatro li{
+    float:left;
+    padding-top:6px;
+    padding-bottom:6px;
+    margin:0px;
+    width:120px;
+    height:100%;
+    list-style-type: none;
+    text-align: center;
+}
+.cuatro1{
+    background-color: rgb(255, 255, 230);
+}
+.cuatro2{
+    background-color: rgb(94, 172, 245);
+}
+.cinco li{
+    float:left;
+    list-style-type: none;
+    text-align:center;
+    padding:10px;
+    border-width:thin;
+}
+.cinco1{
+    border-left-style:solid;
+    border-bottom-style: solid;
+    border-right-style:solid;
+}
+.cinco2{
+    border-top-style: solid;
+}
+.seis li{
+    float:left;
+    list-style-type:none;
+    text-align: center;
+    padding:10px;
+}
+.seis1{
+    border-left-style:solid;
+    border-width:thin;
+}
+.siete li{
+    list-style-type: none;
+    background-color: rgb(255, 255, 226);
+    margin:5px;
+    width:18%;
+}
+.ocho li{
+    list-style-type:none;
+    background-color: rgb(255, 255, 226);
+    border-style: solid;
+    margin:7px;
+    margin-left:-20px;
+    border-width: thin;
+    text-align: center;
+    width:100%;
+    padding-top:7px;
+    padding-bottom: 7px;
+    float:left;
+}
+.ochos{
+    border-style: solid;
+    border-width:thin;
+    height: 300px;
+    width:20%;
+}
+.nine{
+    position:relative;
+}
+.nueve{
+    position: absolute;
+    top:50%;
+    left:25%;
+}
+.nueve li{
+    display:inline;
+    border-style:outset;
+    border-color:rgb(255, 255, 226);
+    /*border-bottom-style:outset;
+    border-right-style:outset;*/
+    margin:10px;
+    background-color:rgb(255, 255, 226) ;
+    border-bottom-color:black;
+    border-right-color:black;
+    padding:4px;
+}
+hr{
+    border: dashed 2px;
 }
